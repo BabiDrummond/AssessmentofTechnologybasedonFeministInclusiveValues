@@ -1,0 +1,1 @@
+# ATIV_AssessmentofTechnologybasedonFeministInclusiveValues

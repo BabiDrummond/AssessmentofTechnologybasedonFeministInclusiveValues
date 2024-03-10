@@ -23,4 +23,4 @@ Here you'll find all the important links and information related to the research
 * Interactive assessment instrument [here](https://docs.google.com/spreadsheets/d/1HF881tbsmhnWukxa-pG6iz4bgVhD2fQ-3O5ysUyBo3M/edit?usp=sharing)
  
 ## Data Analysis
-* Analysis and codification of data [here](https://docs.google.com/spreadsheets/d/1EDQwB6d2bbgmWYGvCEhUoWJMN6wRNePQ/).
+* Analysis and codification of data [here](https://docs.google.com/spreadsheets/d/1PrCkI6C2lzi6rhBmzIbo2-3qFDXYxqop/edit?usp=sharing&ouid=102932349864619166393&rtpof=true&sd=true).

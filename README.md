@@ -19,8 +19,9 @@ Here you'll find all the important links and information related to the research
 
 ### Study 2
 * Informed Consent form [here](https://forms.gle/6JMWfAUuj5FgRPbc9).
-* Instrument anonymous evaluation questionnaire [here](https://forms.gle/CmQ8tqYqtK1d9LCH6).
+* Anonymous questionnaire for evaluating the instrument [here](https://forms.gle/CmQ8tqYqtK1d9LCH6).
 * Interactive assessment instrument [here](https://docs.google.com/spreadsheets/d/1Aooi0Vq_bV83yRISXIPV-6_3dfHnLVjN/edit?usp=sharing&ouid=103489270086300528512&rtpof=true&sd=true).
+* Template for reporting results [here](https://docs.google.com/document/d/1EwrLxlJUKcVvZbv_DRH1tuZuBkJJuTaf/edit?usp=sharing&ouid=102932349864619166393&rtpof=true&sd=true).
  
 ## Data Analysis
 * Analysis and codification of data [here](https://docs.google.com/spreadsheets/d/1BnG6K9K6GiIKHEr4AmffpNJ5zSBKQm6q/edit?usp=sharing&ouid=103489270086300528512&rtpof=true&sd=true).

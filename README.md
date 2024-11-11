@@ -18,6 +18,7 @@ The final product of this research is a HCI evaluation framework, named as Frame
 ### Study 1
 * Research plan and script [here](https://docs.google.com/document/d/1rIJRUgxZB7ocsfxCP7nSFM2Sh_YfHIgQ/edit?usp=sharing&ouid=102932349864619166393&rtpof=true&sd=true).
 * Informed Consent form and demographic questions [here](https://forms.gle/J4EjcwY9WsZzk2B66).
+* Personas [here](https://docs.google.com/presentation/d/15D2XTdSP3pkQgXuJhLlfDfooKtEbbu5q/edit?usp=sharing&ouid=102932349864619166393&rtpof=true&sd=true).
 * Assessment instrument [here](https://forms.gle/Ms6iuHyP8DncuKAu6).
 
 ### Study 2

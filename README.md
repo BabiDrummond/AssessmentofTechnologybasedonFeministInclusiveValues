@@ -1,5 +1,6 @@
 # Welcome!
-Here you'll find all the important links and information related to the research, as well as the preparation, execution and results of the perfomed empirical studies.
+Here you'll find all the important links and information related to my dissertation research, as well as the preparation, execution and results of the perfomed empirical studies.
+The final product of this research is a HCI evaluation framework, named as Framework ATIV (Assessment of Technology based on Feminist and Inclusive Values).
 
 ## Systematic Mapping
 * Results from the systematic mapping [here](https://docs.google.com/spreadsheets/d/1ZizMph2wbH9DHGlWvhI2TsZVALlBmkRx/edit?usp=sharing&ouid=103489270086300528512&rtpof=true&sd=true).
@@ -20,6 +21,7 @@ Here you'll find all the important links and information related to the research
 ### Study 2
 * Informed Consent form [here](https://forms.gle/6JMWfAUuj5FgRPbc9).
 * Anonymous questionnaire for evaluating the instrument [here](https://forms.gle/CmQ8tqYqtK1d9LCH6).
+##### Framework ATIV
 * Interactive assessment instrument [here](https://docs.google.com/spreadsheets/d/1Aooi0Vq_bV83yRISXIPV-6_3dfHnLVjN/edit?usp=sharing&ouid=103489270086300528512&rtpof=true&sd=true).
 * Template for reporting results [here](https://docs.google.com/document/d/1EwrLxlJUKcVvZbv_DRH1tuZuBkJJuTaf/edit?usp=sharing&ouid=102932349864619166393&rtpof=true&sd=true).
  

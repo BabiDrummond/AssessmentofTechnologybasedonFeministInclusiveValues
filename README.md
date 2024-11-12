@@ -1,6 +1,7 @@
 # Welcome!
 Here you'll find all the important links and information related to my dissertation research, as well as the preparation, execution and results of the perfomed empirical studies.
 The final product of this research is a HCI evaluation framework, named as Framework ATIV (Assessment of Technology based on Feminist and Inclusive Values).
+Link to read the full dissertation [here](https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1179.pdf&tipo=trabalho).
 
 ## Systematic Mapping
 * Results from the systematic mapping [here](https://docs.google.com/spreadsheets/d/1ZizMph2wbH9DHGlWvhI2TsZVALlBmkRx/edit?usp=sharing&ouid=103489270086300528512&rtpof=true&sd=true).

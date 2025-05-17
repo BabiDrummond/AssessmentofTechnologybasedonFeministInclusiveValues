@@ -28,7 +28,7 @@ Link to read the full dissertation [here](https://www.ic.uff.br/wp-content/teses
 * Anonymous questionnaire for evaluating the instrument [here](https://forms.gle/CmQ8tqYqtK1d9LCH6).
 ##### Framework ATIV
 * Interactive assessment instrument [here](https://docs.google.com/spreadsheets/d/1RjuwMJgO0eemGZAqgy-CEodP7xRy5rzR/edit?usp=sharing&ouid=103489270086300528512&rtpof=true&sd=true).
-* Template for reporting results [here](https://docs.google.com/document/d/1_Eix0lNGSFQtWiBa_MColHrAdIOWzaOq/edit?usp=sharing&ouid=103489270086300528512&rtpof=true&sd=true).
+* Template for reporting results [here](https://docs.google.com/document/d/1N2K8THH7PKQdiwUCOPgGIJjqXX6zszns/edit?usp=sharing&ouid=103489270086300528512&rtpof=true&sd=true).
  
 ## Data Analysis
 * Analysis and codification of data [here](https://docs.google.com/spreadsheets/d/1l6YjKBtoMhAqdiJc8CkCddjnf4jCw_V5/edit?usp=sharing&ouid=103489270086300528512&rtpof=true&sd=true).
